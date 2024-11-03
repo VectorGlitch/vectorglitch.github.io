@@ -31,6 +31,8 @@
 }
 
 .rounded-social-buttons .fa-twitter,
+.fa-bluesky,
+.fa-book
 .fa-mastodon,
 .fa-facebook-f,
 .fa-linkedin,
@@ -69,6 +71,26 @@
 }
 
 .rounded-social-buttons .social-button.mastodon:hover, .rounded-social-buttons .social-button.mastodon:focus {
+  color: #6364FF;
+  background: #6364FF;
+  border-color: #563ACC;
+}
+
+.rounded-social-buttons .social-button.book {
+  background: #563ACC;
+}
+
+.rounded-social-buttons .social-button.book:hover, .rounded-social-buttons .social-button.book:focus {
+  color: #6364FF;
+  background: #6364FF;
+  border-color: #563ACC;
+}
+
+.rounded-social-buttons .social-button.blueSky {
+  background: #563ACC;
+}
+
+.rounded-social-buttons .social-button.blueSky:hover, .rounded-social-buttons .social-button.blueSky:focus {
   color: #6364FF;
   background: #6364FF;
   border-color: #563ACC;
