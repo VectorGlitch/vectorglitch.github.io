@@ -15,8 +15,6 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 mastodon: "vectorglitch"
 twitter: "sudomakestuff"
-bluesky: "vectorglitch.t4t.dog"
-ao3: "VectorGlitch"
 #stackoverflow: "#"
 #linkedin: "#"
 github: "vectorglitch"
