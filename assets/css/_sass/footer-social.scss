@@ -30,7 +30,8 @@
           transform: rotate(360deg);
 }
 
-.rounded-social-buttons .fa-twitter,
+.rounded-social-buttons
+.fa-twitter,
 .fa-bluesky,
 .fa-book,
 .fa-mastodon,
@@ -77,7 +78,7 @@
 }
 
 .rounded-social-buttons .social-button.book {
-  background: #563ACC;
+  background: #cc3a3a;
 }
 
 .rounded-social-buttons .social-button.book:hover, .rounded-social-buttons .social-button.book:focus {
