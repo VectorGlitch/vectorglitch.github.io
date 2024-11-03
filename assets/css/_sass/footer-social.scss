@@ -69,9 +69,19 @@
 }
 
 .rounded-social-buttons .social-button.mastodon:hover, .rounded-social-buttons .social-button.mastodon:focus {
-  color: #fefefe;
-  background: #6364FF;
+  color: #6364FF;
+  background: #fefefe;
   border-color: #563ACC;
+}
+
+.rounded-social-buttons .social-button.bluesky {
+  background: #007bb5;
+}
+
+.rounded-social-buttons .social-button.bluesky:hover, .rounded-social-buttons .social-button.bluesky:focus {
+  color: #007bb5;
+  background: #fefefe;
+  border-color: #007bb5;
 }
 
 .rounded-social-buttons .social-button.linkedin {
