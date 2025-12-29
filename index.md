@@ -7,7 +7,9 @@ profile:
 published: true
 ---
 
-Hi There! My name's Erin (It/Its), but feel free to call me puppy. Talk to me about video games F1, silly animal stuff, and the fight for trans rights which I sometimes write about on  [my blog!](https://t4t.dog/posts/){:target="_self"}
+Hi There! My name's Erin (It/Its). You might also know me as Puppy Panic!
+
+Either way, feel free to call me Puppy. Talk to me about Roller Derby, F1, silly animal stuff, and the fight for trans rights! Sometimes, I write about these things on [my blog!](https://t4t.dog/posts/){:target="_self"}
 
 A couple of fun facts:
 I am trans and actively fight for trans liberation.
