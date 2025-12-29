@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 mastodon: "vectorglitch"
-twitter: "sudomakestuff"
+# twitter: "sudomakestuff"
 bluesky: "vectorglitch.t4t.dog"
 #stackoverflow: "#"
 #linkedin: "#"
